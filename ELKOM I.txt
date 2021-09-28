@@ -1,0 +1,7 @@
+print ("@@@@  @@@@  @@@   @@@   @   @")
+print ("@     @     @  @  @  @   @ @")
+print ("@@@@  @@@   @@@   @@@     @")
+print ("@     @     @ @   @ @     @")
+print ("@     @@@@  @  @  @  @    @")
+print ('Dia berkata, "Tolong Kerjakan laporan praktikum"')
+print ("I'm eating right now")
